@@ -1,1 +1,2 @@
 # test
+Here is some text in the file.
